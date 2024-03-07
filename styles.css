@@ -22,4 +22,6 @@ h2 {
 img {
     height: auto;
     width: 540px;
+    display: block;
+    margin: auto;
 }
