@@ -7,4 +7,4 @@ The current project aims to build a basic recipe website as part of The Odin Pro
 ## Skills Demonstrated
 
 Upon completion, this project will demonstrate my ability to:
-1. Create a simple and functional website using HTML
+1. Create a simple and functional website using HTML and CSS.
